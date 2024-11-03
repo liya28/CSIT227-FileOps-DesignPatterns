@@ -1,4 +1,4 @@
-package Practice;
+package FileOperations.Practice;
 
 import java.io.*;
 import java.util.*;

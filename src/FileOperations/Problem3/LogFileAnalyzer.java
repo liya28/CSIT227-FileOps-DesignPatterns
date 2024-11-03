@@ -1,4 +1,4 @@
-package Problem3;
+package FileOperations.Problem3;
 import java.util.*;
 import java.io.*;
 
@@ -46,3 +46,17 @@ public class LogFileAnalyzer {
         }
     }
 }
+
+// Ask user for log file name
+// Initialize arrays uniqueWords and wordCounts
+
+// Read file line-by-line
+// For each line:
+// Split line into words
+// For each word:
+// If word is already in uniqueWords
+// Increment wordCounts at corresponding index
+// Else
+// Add word to uniqueWords and set count to 1
+
+// Output each word and its frequency
