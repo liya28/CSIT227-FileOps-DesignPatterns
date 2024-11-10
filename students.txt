@@ -1,4 +1,0 @@
-Aliyah,19,90
-Clyd,20,90
-Harliy,10,90
-Shara,23,90

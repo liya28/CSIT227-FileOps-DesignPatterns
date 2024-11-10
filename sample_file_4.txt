@@ -1,0 +1,2 @@
+   This  is  file 4.   
+It has   a      lot     of white spaces  and new lines  
